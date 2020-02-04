@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1580637712 source:d:\cpp\singlelinklist\main.cpp
+	<iostream>
+	"list.cpp"
+
+1580637284 d:\cpp\singlelinklist\list.cpp
+	<iostream>
+	"list.h"
+
+1580637272 d:\cpp\singlelinklist\list.h
+	<iostream>
+
+1580541820 source:d:\cpp\singlelinklist\list.cpp
+	<iostream>
+	"list.h"
+
